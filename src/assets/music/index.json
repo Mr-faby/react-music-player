@@ -1,5 +1,11 @@
 [
     {
+        "name": "The Sound Of Silence",
+        "author": "Simon & Garfunkel",
+        "imgPath": "img/sound-of-silence.jpg",
+        "filePath": "The Sound Of Silence - Simon & Garfunkel.mp3"
+    },
+    {
         "name": "突然的自我",
         "author": "伍佰",
         "imgPath": "img/突然的自我.jpg",
