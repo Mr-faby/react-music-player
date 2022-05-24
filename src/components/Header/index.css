@@ -1,0 +1,18 @@
+.header-comp {
+    font-size: 25px;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #e6e6e6;
+    padding: 0 20px;
+}
+
+.header-comp .header-left {
+    display: flex;
+    align-items: center;
+}
+
+.header-comp .header-icon {
+    color: rgb(234, 98, 72);
+}
